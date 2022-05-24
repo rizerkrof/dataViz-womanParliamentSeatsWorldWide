@@ -2,6 +2,10 @@
 #+DATE:    mai 24, 2022
 #+STARTUP: inlineimages nofold
 
+#+CAPTION: dataViz-womanParliamentSeatsWorldWide
+#+NAME:   fig:Sdv-wpsww
+[[./render/dataViz-womanParliamentSeatsWorldWide.png]]
+
 * Table of Contents :TOC_3:noexport:
 - [[#description][Description]]
   - [[#context][Context]]
