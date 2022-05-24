@@ -1,0 +1,21 @@
+#+TITLE: README
+#+DATE:    mai 24, 2022
+#+STARTUP: inlineimages nofold
+
+* Table of Contents :TOC_3:noexport:
+- [[#description][Description]]
+  - [[#context][Context]]
+  - [[#the-viz][The viz]]
+- [[#prerequisites][Prerequisites]]
+
+* Description
+** Context
+** The viz
+
+* Prerequisites
+- Unix system
+- python 3.8
+- pandas
+- plotly.express
+- pycountry
+- pycountry_convert
